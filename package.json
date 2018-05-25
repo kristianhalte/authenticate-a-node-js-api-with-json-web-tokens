@@ -1,0 +1,19 @@
+{
+  "name": "authenticate-a-node-js-api-with-json-web-tokens",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristianhalte/authenticate-a-node-js-api-with-json-web-tokens.git"
+  },
+  "author": "Kristian Larsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristianhalte/authenticate-a-node-js-api-with-json-web-tokens/issues"
+  },
+  "homepage": "https://github.com/kristianhalte/authenticate-a-node-js-api-with-json-web-tokens#readme"
+}
