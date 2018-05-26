@@ -8,6 +8,9 @@
 ## Build Setup
 
 ``` bash
-# start server
-node server.js
+# install dependencies
+npm install
+
+# serve with auto reload at localhost:8080
+npm run dev
 ```
